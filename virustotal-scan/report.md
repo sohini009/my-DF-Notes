@@ -76,7 +76,7 @@
 
 ## 🖼️ Screenshots
 *(Include your VirusTotal dashboard and scan results screenshots here)*
--![VT Detection Screenshot] (screenshots/Screenshot%201.png)
--![VT Vendors List] (screenshots/Screenshot%202.png)
--![VT Detection Screenshot] (screenshots/Screenshot%203.png)
--![VT Vendors List] (screenshots/Screenshot%204.png)
+-![VT Detection Screenshot] (Screenshots/Screenshot%201.png)
+-![VT Vendors List] (Screenshots/Screenshot%202.png)
+-![VT Detection Screenshot] (Screenshots/Screenshot%203.png)
+-![VT Vendors List] (Screenshots/Screenshot%204.png)
